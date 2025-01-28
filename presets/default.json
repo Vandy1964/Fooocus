@@ -1,5 +1,5 @@
 {
-    "default_model": "realismByStableYogi_ponyV3VAE.safetensors",
+    "default_model": "realismByStableYogi_v5XLFP16.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -45,7 +45,7 @@
     "default_aspect_ratio": "832*1216",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
-        "juggernautXL_v8Rundiffusion.safetensors": "https://civitai.com/api/download/models/992946?type=Model&format=SafeTensor&size=full&fp=fp16 realismByStableYogi_ponyV3VAE.safetensors"
+        "juggernautXL_v8Rundiffusion.safetensors": "https://civitai.com/api/download/models/1075446?type=Model&format=SafeTensor&size=pruned&fp=fp16 realismByStableYogi_v5XLFP16.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
